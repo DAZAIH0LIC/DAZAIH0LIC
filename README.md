@@ -6,4 +6,4 @@
 <p align="center"> 𓏵‿⏔⏔⏔ ⑅ ꒰ 𓏵 ꒱⑅ ⏔⏔⏔‿𓏵‿⏔⏔⏔ ⑅ ꒰ 𓏵 ꒱⑅ ⏔⏔⏔‿𓏵
 <p align="center"> <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FDAZAIH0LIC&label=Kittens&icon=github&color=%23212529&message=&style=flat&tz=Asia%2FHo_Chi_Minh">
 <p align="center"> 
-<p align="center"><a href="https://veliona.atabook.org/">新</a>book
+<p align="center"><a href="https://veliona.atabook.org/">新</a>book <a href="https://discord.gg/aYVQzkkR">dis</a>cord
